@@ -1,0 +1,23 @@
+name: ai-driven-insights
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - xgboost
+  - catboost
+  - statsmodels
+  - pip
+  - pip:
+      - mlflow
+      - evidently
+      - great-expectations
+      - fastapi
+      - uvicorn
+      - streamlit

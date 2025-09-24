@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+catboost
+statsmodels
+mlflow
+evidently
+great-expectations
+fastapi
+uvicorn
+streamlit
+
