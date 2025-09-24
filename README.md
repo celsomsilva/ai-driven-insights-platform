@@ -2,10 +2,11 @@
 ![R](https://img.shields.io/badge/R-4.4.0-blue?logo=r)
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-true-blue?logo=docker)
+<!-- ![CI](https://github.com/celsomsilva/ai-driven-insights-platform/workflows/CI%20Pipeline/badge.svg) -->
+<!-- ![Deployment](https://img.shields.io/badge/deployment-aws%20%7C%20gcp-blue)  -->
+<!-- ![Coverage](https://img.shields.io/badge/coverage-0%25-yellow)  -->
 ![License](https://img.shields.io/github/license/celsomsilva/ai-driven-insights-platform)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![CI](https://github.com/SEU_USUARIO/ai-driven-insights-platform/workflows/CI%20Pipeline/badge.svg)
-
 
 
 # AI-Driven Insights Platform
